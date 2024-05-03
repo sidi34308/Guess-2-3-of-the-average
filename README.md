@@ -3,10 +3,10 @@
 # Report
 This project involves implementing a "Guess 2/3 of the Average" game server that supports multiple interactive games, each with multiple players.
 ## Team
-- Sidi Chaikh  sc2104008@student.qu.edu.qa
-- Fane Doe fd0000003@student.qu.edu.qa
-- Sane Doe sd0000002@student.qu.edu.qa
-- Zane Doe zd0000004@student.qu.edu.qa
+- Hamza Almomani -----
+- Sidi Chaikh  sc2104008@qu.edu.qa
+- Ibrahim E.I. Aboulibdah ia2001803@qu.edu.qa
+- Ibrahim Mohamad Shatah is1807372@qu.edu.qa
 ## Challenges
 1. Challenge #1 with details
 2. Challenge #2 with details
@@ -18,11 +18,8 @@ This project involves implementing a "Guess 2/3 of the Average" game server that
 ## Contributions
 | Member | Date | Description |
 | :----- | ---------: | :---------- |
-| Sidi | 2024-04-29 | |
-| Dane | 2024-04-01 | |
-| Fane | 2024-04-29 | |
-| Sane | 2024-04-04 | |
-| Sane | 2024-04-04 | |
-| Zane | 2024-04-19 | |
-| Zane | 2024-04-25 | |
-| .
+| Sidi Chaikh| 2024-04-29 | |
+| Hamza Almomani | 2024-04-01 | |
+| Ibrahim Shatah | 2024-04-29 | |
+| Ibrahim  Aboulibdah | 2024-04-04 | |
+

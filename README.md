@@ -27,4 +27,6 @@ This project involves implementing a "Guess 2/3 of the Average" game server that
 | Sidi Chaikh| 2024-05-3 | Tested the connection between the Game and Users (Players) Classes |
 | Everyone | 2024-05-4,5 | Testing all classes together and debugging |
 
-
+## References
+- [Socket Programming in Java] (https://www.geeksforgeeks.org/socket-programming-in-java/):was filled with examples that demonstrate how to establish connections, send data, and handle multiple clients
+- [Testing the classes using JUnit]((https://youtu.be/mqT2mkNhveo?si=FFBkxYCGaThB6l_r): Testing all the individuial classes and furthuer testing after combining them together.
